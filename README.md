@@ -1,3 +1,0 @@
-# stubby-website
-
-Stubby Website
